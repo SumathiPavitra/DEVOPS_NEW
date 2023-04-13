@@ -1,0 +1,5 @@
+welcome to Basics of Devops
+
+1.What is Devops 
+Devops The name speaks developer and operation
+Formal Meaning Devops is a process of software practice which bridges the gap between the developer and operations Team For better software delievery.
